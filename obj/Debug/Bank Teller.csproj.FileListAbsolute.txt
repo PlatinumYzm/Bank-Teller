@@ -1,0 +1,26 @@
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Bank Teller.exe.config
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Bank Teller.exe
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Bank Teller.pdb
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form1.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Properties.Resources.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.csproj.GenerateResource.Cache
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.exe
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.pdb
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form2.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form3.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form11.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form4.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Form10.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Bank Teller.exe.manifest
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Bank Teller.application
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.exe.manifest
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.application
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank Teller.csprojResolveAssemblyReference.cache
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Withdrawal.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Transaction.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.LoanApply.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Establishment.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.PasswordInput.resources
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Ban.mdf
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\bin\Debug\Ban_log.ldf
+E:\大三\大三下\Windows编程\Bank\Bank Teller\Bank Teller\obj\Debug\Bank_Teller.Init.resources
